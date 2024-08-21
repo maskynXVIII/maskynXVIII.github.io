@@ -79,3 +79,21 @@
     height: 200px;
     color: #ffffff;
 }
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.rules{
+    text-align: center;
+    font-size: 2.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    height: 450px   ;
+    color: #ffffff;
+}
